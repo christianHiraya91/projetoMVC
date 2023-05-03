@@ -8,7 +8,7 @@ Quando for extrair os arquivos, o recomendável é que extraia os arquivos dentr
 
 Meu computador > Windows
 
-[b]arquivo BancoDeDadosSQL.sql tem a criação do banco de dados:[/b]
+O arquivo BancoDeDadosSQL.sql tem a criação do banco de dados:
 
 
 1 - Abrir o XAMPP e iniciar o Apache e o MySql.
