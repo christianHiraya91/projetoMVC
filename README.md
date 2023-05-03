@@ -28,10 +28,20 @@ O arquivo BancoDeDadosSQL.sql tem a criação do banco de dados:
   
   
 Agora abra o Prompt de Comando (cmd), e digite:
-1 - cd/projetoMVC 
+
+
+1 - cd/projetoMVC
+
+
 2 - dir
+
+
 3 - cd public 
+
+
 4 - php –S localhost:8085
+
+
 
 	 Voce vai ver uma mensagem dizendo que o servidor php foi iniciado.
    
